@@ -35,8 +35,8 @@ Controllers: Controllers synchronize and control the movement of different actua
 ............
 
 ## output : 
-### NAME : JANANI R
-### REGISTER NUMBER : 212221230039
+#### NAME : JANANI R
+#### REGISTER NUMBER : 212221230039
 ![8 1](https://github.com/Janani-2003/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94288340/5a613188-41e1-4be4-899d-93bd09b352c3)
 
 ![8 2](https://github.com/Janani-2003/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94288340/5d82418d-ac32-4f12-96e7-28e30086c313)
