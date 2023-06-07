@@ -2,8 +2,8 @@
 ## Aim :
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
-##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
-
+## Components Required: 
+Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
 
 ## Theory 
 Pick and place robots enable companies to use automated solutions for lifting objects from one location and placing them at other locations.
@@ -28,28 +28,25 @@ Sensors: You can think of sensors as the eyes of the robots. The sensors do the 
 
 Controllers: Controllers synchronize and control the movement of different actuators of a robot, thereby being the brain behind the smooth robotic operation.
 
-
-
-Procedure:
-
-
+## Procedure:
 1) Place the given object on table (Workspace).
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
 3)Move to poin1 using move J
 ............
 
-
-## Program 
-// Roll no:
-
-//Name:
-MoveJ ................
-
 ## output : 
+### NAME : JANANI R
+### REGISTER NUMBER : 212221230039
+![8 1](https://github.com/Janani-2003/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94288340/5a613188-41e1-4be4-899d-93bd09b352c3)
 
+![8 2](https://github.com/Janani-2003/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94288340/5d82418d-ac32-4f12-96e7-28e30086c313)
+
+![8 3](https://github.com/Janani-2003/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94288340/bd9e2451-c642-4920-bbd2-657625eb0268)
+
+![8 4](https://github.com/Janani-2003/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/94288340/69fbae51-2f46-416e-8c07-2eed35f7faa6)
 
 ## Results: 
-
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
